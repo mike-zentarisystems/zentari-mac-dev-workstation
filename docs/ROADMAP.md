@@ -18,11 +18,17 @@
 
 ## M1 - Local AI Coding Loop
 
-- [ ] Zed + OpenCode ACP integration validation on the Mac
-- [ ] LM Studio provider configuration validation
-- [ ] Coding/general/reviewer model presets benchmarked on 24 GB M4
-- [ ] JIT load and single-large-model memory policy validation
-- [ ] Expand repository investigation and implementation skills
+- [x] Add M1 integration validation script
+- [x] Add repeatable LM Studio benchmark harness
+- [x] Expand repository investigation and implementation skills
+- [x] Add end-to-end M1 runbook and measured validation template
+- [ ] Zed + OpenCode ACP integration validated on the target Mac
+- [ ] LM Studio provider configuration validated on the target Mac
+- [ ] Coding/general/reviewer model presets benchmarked on the 24 GB M4
+- [ ] JIT load and single-large-model memory policy validated under real memory pressure
+- [ ] End-to-end local coding acceptance test passed
+
+**Status: IMPLEMENTED, HARDWARE VALIDATION REQUIRED**
 
 ## M2 - Verification Harness
 
